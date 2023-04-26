@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "953574642243",
+    "project_id": "hopeless-romantics",
+    "storage_bucket": "hopeless-romantics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953574642243:android:51eda6e1235e4e6147baf6",
+        "android_client_info": {
+          "package_name": "com.boss.hopeless_romantic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953574642243-20u9meoa1inihj7ttvc3qjgh232mng22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boss.hopeless_romantic",
+            "certificate_hash": "6dbe09cca1d307101d2e45c98f0395d35d69b19e"
+          }
+        },
+        {
+          "client_id": "953574642243-q742gu54uqakvv9ieqqa1n85sjuunj65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByqwnQDLV9C_kxHflgZhAniMO74ivAA4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953574642243-q742gu54uqakvv9ieqqa1n85sjuunj65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953574642243-b9hep7q1iia4qdn6kpttm9ivcc6ekg4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hopelessRomantic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
